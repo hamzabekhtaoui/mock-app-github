@@ -6,7 +6,7 @@ on:
       - 'develop'
 
 env:
-  RELEASE_VERSION: v2.5.0
+  RELEASE_VERSION: v1.0.0
 
 jobs:
   build-test:
